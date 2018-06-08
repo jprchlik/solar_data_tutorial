@@ -23,4 +23,4 @@ Ipython notebook with a couple examples of local data retrieval.
 
 ### data_prep.ipynb
 ----------
-Ipython notebook with IRIS, XRT, and AIA prep example.
+Ipython notebook with IRIS, XRT, and AIA prep examples.
