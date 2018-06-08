@@ -20,3 +20,7 @@ Ipython notebook with a couple examples of internet data retrieval.
 ### local_data.ipynb
 ----------
 Ipython notebook with a couple examples of local data retrieval.
+
+### data_prep.ipynb
+----------
+Ipython notebook with IRIS, XRT, and AIA prep example.
